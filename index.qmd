@@ -31,7 +31,7 @@ Acontinuación en el apartado de resultados, se presenta el nombre del alumnos, 
 
 | Alumno | Título | Enlace del Protocolo |
 |--------|-----|------|
-| José Guadalupe Ortiz Bacilio | Epidemiología del dengue en Morelos: magnitud, caracterización y tendencias entre 2016-2024 | [link]() | 
+| José Guadalupe Ortiz Bacilio | Epidemiología del dengue en Morelos: magnitud, caracterización y tendencias entre 2016-2024 | [link](https://github.com/fdzul/direccion_posgrado/blob/main/protocolo_JGOB.pdf) | 
 : Datos básicos del la Dirección de Tesis de Posgrado
 
 ### Portada
@@ -40,10 +40,13 @@ Acontinuación en el apartado de resultados, se presenta el nombre del alumnos, 
 
 
 ### Solicitud de aprobación de nuevo asesor.
-![](comite.jpeg)
+
+[![](comite.jpeg)](https://github.com/fdzul/direccion_posgrado/blob/main/protocolo_JGOB.pdf)
+
 
 ### Enlace del Protocolo de Tesis.
 
+[Epidemiología del dengue en Morelos: magnitud, caracterización y tendencias entre 2016-2024](https://github.com/fdzul/direccion_posgrado/blob/main/protocolo_JGOB.pdf)
 
 
 ## Conclusión
