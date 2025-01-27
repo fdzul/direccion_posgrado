@@ -35,7 +35,7 @@ Acontinuación en el apartado de resultados, se presenta el nombre del alumno, t
 
 ## Resultados
 
-### Datos Básicos
+### Datos Básicos del Estudiante
 
 | Alumno | Título | Enlace del Protocolo |
 |--------|-----|------|
