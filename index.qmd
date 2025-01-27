@@ -21,18 +21,28 @@ Dirección de Tesis de Posgrado
 
 ## Material & Métodos
 
-Hasta la presente fecha, únicamente un estudiante de la Maestría en Salud Pública con área de concentración en Epidemiología, ha aceptado que un servidor forme parte de su comite de tesis como asesor.
+Hasta la presente fecha, únicamente un estudiante de la Maestría en Salud Pública con área de concentración en Epidemiología, ha invitado al Dr. FADM a formar parte de su comite de tesis como asesor.
 
 Acontinuación en el apartado de resultados, se presenta el nombre del alumnos, titulo del protocolo, la portada del protocolo y el link al pdf del protocolo
 
 ## Resultados
+
+### Datos Básicos
 
 | Alumno | Título | Enlace del Protocolo |
 |--------|-----|------|
 | José Guadalupe Ortiz Bacilio | Epidemiología del dengue en Morelos: magnitud, caracterización y tendencias entre 2016-2024 | [link]() | 
 : Datos básicos del la Dirección de Tesis de Posgrado
 
+### Portada
 
+![](portada_protocolo_JGOB.png)
+
+
+### Solicitud de aprobación de nuevo asesor.
+![](comite.jpeg)
+
+### Enlace del Protocolo de Tesis.
 
 
 
