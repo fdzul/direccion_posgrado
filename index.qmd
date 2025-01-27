@@ -15,15 +15,23 @@ execute:
 
 ## Introducción
 
+La oferta académica de La Escuela de Salud Pública de México del Instituto Nacional de Salud Pública incluye especialidades, [maestrías](https://espm.mx/programaacademico/maestria) y [doctorados](https://espm.mx/programaacademico/doctorado), con orientación profesional y en investigación. La ESPM oferta tres doctorados ( [Doctorado en Salud Pública Integral](https://espm.mx/programaacademico/detalle-doctorado-en-salud-publica-integral), [Doctorado en Ciencias en Salud Pública](https://espm.mx/programaacademico/detalle-doctorado-en-ciencias-en-salud-publica), & [Doctorado en Calidad de los Sistemas de Salud (virtual)](https://espm.mx/programaacademico/detalle-doctorado-calidad-sistemas-salud)) y cinco maestrias ([Maestría en Salud Pública Integral](https://espm.mx/programaacademico/detalle-maestria-en-salud-publica-integral)
+[Maestría en Ciencias en Salud Pública](https://espm.mx/programaacademico/detalle-maestria-en-ciencias-en-salud-publica)
+[Maestría en Salud Pública (virtual)](https://espm.mx/programaacademico/detalle-maestria-salud-publica-virtual)
+[Maestría en Nutrición Clínica INSP - INER - INPer](https://espm.mx/programaacademico/detalle-maestria-en-nutricion-clinica-insp-iner-inper) & [Maestría en Gestión de la Calidad en los Servicios de Salud (virtual)](https://espm.mx/programaacademico/detalle-maestria-gestion-calidad-servicios-de-salud)). 
+
+Los estudiantes de estos posgrados forman parte de los recursos humanos del futuro de la salud pública y epidemiología del sistema de salud mexicano. En este sentido uno de los compromisos de los profesionales académicos es formar recursos humados de calidad para que coadyuven y se integren en los campos laborales y ayuden a resolver los problema nacionales del país (problemas de salud publica). La docencia y la dirección de tesis ayudan a cumplir este compromiso académico.
+
+
 ## Objetivo
 
 Dirección de Tesis de Posgrado
 
 ## Material & Métodos
 
-Hasta la presente fecha, únicamente un estudiante de la Maestría en Salud Pública con área de concentración en Epidemiología, ha invitado al Dr. FADM a formar parte de su comite de tesis como asesor.
+Hasta la presente fecha, únicamente un estudiante de la Maestría en Salud Pública con área de concentración en Epidemiología, ha invitado al Dr. FADM a formar parte de su comité de tesis como asesor.
 
-Acontinuación en el apartado de resultados, se presenta el nombre del alumnos, titulo del protocolo, la portada del protocolo y el link al pdf del protocolo
+Acontinuación en el apartado de resultados, se presenta el nombre del alumno, titulo del protocolo, la portada del protocolo y el link al pdf del protocolo
 
 ## Resultados
 
@@ -51,5 +59,5 @@ Acontinuación en el apartado de resultados, se presenta el nombre del alumnos, 
 
 ## Conclusión
 
-
+En resumen, solo un estudiante de posgrado ha invitado al Dr. FADM a formar parte de su comité de tesis.
 
